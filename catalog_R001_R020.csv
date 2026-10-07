@@ -1,0 +1,21 @@
+﻿resource_id,title,topic,level,duration_min,url,notes
+R001,Tư duy tính toán: bắt đầu từ bài toán,Tư duy tính toán,Cơ bản,45,https://learn.smartstart.edu.vn/r001,
+R002,Python nhập môn trong 60 phút,Lập trình,beginner,60,https://learn.smartstart.edu.vn/r002,Phù hợp người mới
+R003,Git và GitHub cho người mới,Công cụ,cb,50,https://learn.smartstart.edu.vn/r003,
+R004,Nhập môn trí tuệ nhân tạo,AI,Trung bình,90,https://learn.smartstart.edu.vn/r004,
+R005,Đạo đức AI,AI,Cơ bản,90,https://learn.smartstart.edu.vn/r005,
+R006,Lộ trình học Python cuối tuần,Lập trình,Cơ bản,300,https://learn.smartstart.edu.vn/r006,Workshop dài
+R007,Cơ sở dữ liệu là gì?,Cơ sở dữ liệu,Cơ bản,40,https://learn.smartstart.edu.vn/r007,
+R008,API hoạt động như thế nào?,Hệ sinh thái công nghệ,Trung bình,55,https://learn.smartstart.edu.vn/r008,
+R009,Đạo đức AI cho sinh viên,Đạo đức AI,Cơ bản,35,https://learn.smartstart.edu.vn/r009,
+R010,Kiểm chứng đầu ra của AI,AI,Nâng cao,70,https://learn.smartstart.edu.vn/r010,
+R011,Lưu đồ và mã giả,Tư duy tính toán,Cơ bản,50,https://learn.smartstart.edu.vn/r011,
+R012,Git cơ bản,Công cụ,Cơ bản,45,learn.smartstart.edu.vn/r012,
+R013,Kỹ năng tự học ngành KHMT,Định hướng,Cơ bản,30,https://learn.smartstart.edu.vn/r013,
+R014,Quyền riêng tư dữ liệu,Đạo đức AI,Trung bình,65,https://learn.smartstart.edu.vn/r014,
+R015,Cloud ở mức nhập môn,Hệ sinh thái công nghệ,Cơ bản,55,https://learn.smartstart.edu.vn/r015,
+R016,Học máy hoạt động thế nào?,AI,Trung bình,80,https://learn.smartstart.edu.vn/r016,
+R016,Học máy: ví dụ minh họa,AI,Trung bình,75,https://learn.smartstart.edu.vn/r016b,
+R018,An toàn khi dùng công cụ AI,Đạo đức AI,Cơ bản,,https://learn.smartstart.edu.vn/r018,
+R019,Khám phá nghề nghiệp KHMT,Định hướng,Cơ bản,120,https://learn.smartstart.edu.vn/r019,
+R020,Dữ liệu bán cấu trúc với JSON,Khoa học dữ liệu,Nâng cao,60,https://learn.smartstart.edu.vn/r020,
